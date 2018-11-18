@@ -1,0 +1,110 @@
+2018-11-18T10:37:04.558Z - normal: Load ~/.CocosCreator/settings.json
+2018-11-18T10:37:04.563Z - normal: checking language setting...
+2018-11-18T10:37:04.563Z - normal: Language: zh
+2018-11-18T10:37:07.168Z - success: protocol editor-framework registered
+2018-11-18T10:37:07.168Z - success: protocol app registered
+2018-11-18T10:37:07.168Z - success: protocol theme registered
+2018-11-18T10:37:07.168Z - success: protocol packages registered
+2018-11-18T10:37:07.168Z - success: protocol unpack registerred
+2018-11-18T10:37:07.168Z - success: protocol disable-commonjs registerred
+2018-11-18T10:37:07.596Z - normal: connected!
+2018-11-18T10:37:07.598Z - normal: Check project C:\Users\kjw\Desktop\start_project
+2018-11-18T10:37:07.726Z - normal: Initializing project C:\Users\kjw\Desktop\start_project
+2018-11-18T10:37:07.729Z - normal: Initializing Cocos2d
+2018-11-18T10:37:09.217Z - normal: Initializing Asset Database
+2018-11-18T10:37:09.276Z - success: protocol uuid registerred
+2018-11-18T10:37:09.276Z - success: protocol db registerred
+2018-11-18T10:37:09.276Z - success: protocol thumbnail registerred
+2018-11-18T10:37:09.276Z - normal: Loading editor/builtin packages
+2018-11-18T10:37:09.495Z - success: assets loaded
+2018-11-18T10:37:09.500Z - success: builder loaded
+2018-11-18T10:37:09.503Z - success: cocos-analytics loaded
+2018-11-18T10:37:09.506Z - success: console loaded
+2018-11-18T10:37:09.550Z - success: fb-instant-games loaded
+2018-11-18T10:37:09.551Z - success: google-instant-games loaded
+2018-11-18T10:37:09.555Z - success: hierarchy loaded
+2018-11-18T10:37:09.558Z - success: inspector loaded
+2018-11-18T10:37:09.559Z - success: keystore loaded
+2018-11-18T10:37:09.563Z - success: node-library loaded
+2018-11-18T10:37:09.565Z - success: package-asset loaded
+2018-11-18T10:37:09.566Z - success: preferences loaded
+2018-11-18T10:37:09.568Z - success: project-exporter loaded
+2018-11-18T10:37:09.594Z - success: project-importer loaded
+2018-11-18T10:37:09.596Z - success: project-settings loaded
+2018-11-18T10:37:09.599Z - success: ui-kit loaded
+2018-11-18T10:37:09.601Z - success: scene loaded
+2018-11-18T10:37:09.602Z - success: sprite-editor loaded
+2018-11-18T10:37:09.605Z - success: store loaded
+2018-11-18T10:37:09.609Z - success: timeline loaded
+2018-11-18T10:37:09.610Z - normal: Loading builtin packages
+2018-11-18T10:37:09.826Z - success: asset-db-debugger loaded
+2018-11-18T10:37:09.847Z - success: code-editor loaded
+2018-11-18T10:37:09.848Z - success: color-picker loaded
+2018-11-18T10:37:10.120Z - success: google-play-instant loaded
+2018-11-18T10:37:10.122Z - success: jsb-adapter loaded
+2018-11-18T10:37:10.145Z - success: oppo-runtime loaded
+2018-11-18T10:37:10.151Z - success: package-manager loaded
+2018-11-18T10:37:10.586Z - success: qqplay-adapter loaded
+2018-11-18T10:37:10.604Z - success: sdkbox loaded
+2018-11-18T10:37:10.624Z - success: tester loaded
+2018-11-18T10:37:10.627Z - success: ui-grid loaded
+2018-11-18T10:37:10.629Z - success: ui-kit-preview-extra loaded
+2018-11-18T10:37:10.632Z - success: ui-kit-preview loaded
+2018-11-18T10:37:10.633Z - success: ui-tree loaded
+2018-11-18T10:37:10.671Z - success: vivo-runtime loaded
+2018-11-18T10:37:10.672Z - success: weapp-adapter loaded
+2018-11-18T10:37:12.586Z - normal: Loading packages
+2018-11-18T10:37:12.635Z - normal: Watching packages
+2018-11-18T10:37:13.432Z - normal: Run Application
+2018-11-18T10:37:14.897Z - success: preview server running at http://localhost:7456
+2018-11-18T10:46:27.804Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-11-18T10:46:27.805Z - normal: Simulator: WORKAREA WIDTH 2552.00, HEIGHT 1350.00
+2018-11-18T10:46:27.805Z - normal: Simulator: FRAME SCALE = 1.00
+2018-11-18T10:46:28.333Z - normal: Simulator: Ready for GLSL
+2018-11-18T10:46:28.333Z - normal: Simulator: Ready for OpenGL 2.0
+2018-11-18T10:46:28.489Z - normal: Simulator: Project Config:
+2018-11-18T10:46:28.489Z - normal: Simulator:     project dir: D:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-11-18T10:46:28.489Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-11-18T10:46:28.489Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-11-18T10:46:28.489Z - normal: Simulator:     frame size: 640 x 960
+2018-11-18T10:46:28.490Z - normal: Simulator:     frame scale: 1.00
+2018-11-18T10:46:28.490Z - normal: Simulator:     show console: NO
+2018-11-18T10:46:28.490Z - normal: Simulator:     write debug log: NO ()
+2018-11-18T10:46:28.490Z - normal: Simulator:     listen: 
+2018-11-18T10:46:28.490Z - normal: Simulator:     debugger: none
+2018-11-18T10:46:28.490Z - normal: Simulator:     add searching path:
+2018-11-18T10:46:28.490Z - normal: Simulator: 
+2018-11-18T10:46:28.490Z - normal: Simulator: 
+2018-11-18T10:46:28.490Z - normal: Simulator: 
+2018-11-18T10:46:28.491Z - normal: Simulator: resetDesignResolution request
+2018-11-18T10:46:28.491Z - normal: Simulator: ------------------------------------------------
+2018-11-18T10:46:28.491Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-11-18T10:46:28.491Z - normal: Simulator: ------------------------------------------------
+2018-11-18T10:46:28.491Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-11-18T10:46:29.064Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-11-18T10:46:29.083Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-11-18T10:46:29.083Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-11-18T10:46:29.246Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-11-18T10:46:29.257Z - normal: Simulator: resetDesignResolution request
+2018-11-18T10:46:29.257Z - normal: Simulator: ------------------------------------------------
+2018-11-18T10:46:29.257Z - normal: Simulator: LOAD Js FILE: main.js
+2018-11-18T10:46:29.257Z - normal: Simulator: ------------------------------------------------
+2018-11-18T10:46:29.678Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-11-18T10:46:29.678Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-11-18T10:46:29.697Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.5
+2018-11-18T10:46:29.781Z - normal: Simulator: iShow!
+2018-11-18T10:46:52.109Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-11-18T10:46:52.109Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 11, all objects: 74
+2018-11-18T10:46:52.152Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 11, all objects: 74
+2018-11-18T10:46:52.152Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 11, all objects: 74
+2018-11-18T10:46:52.184Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 11, all objects: 74
+2018-11-18T10:46:52.185Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-11-18T10:46:52.185Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-11-18T10:46:52.185Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-11-18T10:46:52.186Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-11-18T10:46:52.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-11-18T10:46:52.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-11-18T10:46:52.187Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-11-18T10:46:52.187Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-11-18T10:46:52.220Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-11-18T10:46:52.246Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
